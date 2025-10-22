@@ -49,19 +49,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HR-D5-AI&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
 </div>
-
----
-
-<div align="center">
-
-## 🎮 Animação Matemática Interativa
-
-### 📐 Visualização de sin(θ) e cos(θ)
-
-<a href="https://hr-d5-ai.github.io/animacao-matematica/" target="_blank">
-  <img src="https://img.shields.io/badge/VER_ANIMAÇÃO_AO_VIVO-9333ea?style=for-the-badge&logo=github&logoColor=white" alt="Ver Animação"/>
-</a>
-
-*Clique no botão acima para ver a animação matemática em tempo real!*
-
-</div>
