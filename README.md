@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- Coloque aqui o link do seu GIF inicial -->
-<img src="SEU_GIF_AQUI" width="100%" alt="Header GIF"/>
-
-</div>
-
 # ✨ Bem-vindo! ✨
 
 - 👨‍💻 Estudante de Ciência de Dados e Machine Learning
@@ -13,7 +6,7 @@
 
 <!-- Coloque aqui o link do seu segundo GIF -->
 <div align="center">
-<img src="SEU_SEGUNDO_GIF_AQUI" width="60%" alt="GIF"/>
+<img src="https://imgur.com/LNLxajc" width="60%" alt="GIF"/>
 </div>
 
 ---
