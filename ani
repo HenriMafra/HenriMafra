@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animação Matemática</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Arial', sans-serif;
+        }
+        canvas {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+    <canvas id="mathCanvas"></canvas>
+    
+    <script>
+        const canvas = document.getElementById('mathCanvas');
+        const ctx = canvas.getContext('2d');
+        
+        canvas.width = 800;
+        canvas.height = 600;
+        
+        let t = 0;
+        const points = [];
+        const maxPoints = 150;
+        
+        function drawGrid() {
+            ctx.strokeStyle = '#e0e0e0';
+            ctx.lineWidth = 1;
+            
+            // Linhas verticais
+            for (let x = 0; x <= canvas.width; x += 50) {
+                ctx.beginPath();
+                ctx.moveTo(x, 0);
+                ctx.lineTo(x, canvas.height);
+                ctx.stroke();
+            }
+            
+            // Linhas horizontais
+            for (let y = 0; y <= canvas.height; y += 50) {
+                ctx.beginPath();
+                ctx.moveTo(0, y);
+                ctx.lineTo(canvas.width, y);
+                ctx.stroke();
+            }
+            
+            // Eixos principais
+            ctx.strokeStyle = '#666';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.moveTo(0, canvas.height/2);
+            ctx.lineTo(canvas.width, canvas.height/2);
+            ctx.stroke();
+            
+            ctx.beginPath();
+            ctx.moveTo(canvas.width/2, 0);
+            ctx.lineTo(canvas.width/2, canvas.height);
+            ctx.stroke();
+        }
+        
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            drawGrid();
+            
+            // Calcular posição do ponto
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+            const radius = 120;
+            
+            const x = centerX + radius * Math.cos(t);
+            const y = centerY + radius * Math.sin(t);
+            
+            // Adicionar ponto ao histórico
+            points.push({x: x, y: y});
+            if (points.length > maxPoints) {
+                points.shift();
+            }
+            
+            // Desenhar círculo base
+            ctx.strokeStyle = '#9333ea';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.arc(centerX, centerY, radius, 0, Math.PI * 2);
+            ctx.stroke();
+            
+            // Desenhar linha do centro ao ponto
+            ctx.strokeStyle = '#ec4899';
+            ctx.lineWidth = 3;
+            ctx.beginPath();
+            ctx.moveTo(centerX, centerY);
+            ctx.lineTo(x, y);
+            ctx.stroke();
+            
+            // Desenhar projeções
+            ctx.strokeStyle = '#3b82f6';
+            ctx.lineWidth = 2;
+            ctx.setLineDash([5, 5]);
+            
+            // Projeção no eixo X (cosseno)
+            ctx.beginPath();
+            ctx.moveTo(x, y);
+            ctx.lineTo(x, centerY);
+            ctx.stroke();
+            
+            // Projeção no eixo Y (seno)
+            ctx.beginPath();
+            ctx.moveTo(x, y);
+            ctx.lineTo(centerX, y);
+            ctx.stroke();
+            
+            ctx.setLineDash([]);
+            
+            // Desenhar rastro
+            ctx.strokeStyle = '#a855f7';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            for (let i = 0; i < points.length; i++) {
+                const p = points[i];
+                const alpha = i / points.length;
+                ctx.globalAlpha = alpha;
+                
+                if (i === 0) {
+                    ctx.moveTo(p.x, p.y);
+                } else {
+                    ctx.lineTo(p.x, p.y);
+                }
+            }
+            ctx.stroke();
+            ctx.globalAlpha = 1;
+            
+            // Desenhar ponto atual
+            ctx.fillStyle = '#dc2626';
+            ctx.beginPath();
+            ctx.arc(x, y, 8, 0, Math.PI * 2);
+            ctx.fill();
+            
+            // Desenhar ondas seno e cosseno
+            const waveStartX = centerX + radius + 60;
+            const waveY = y;
+            
+            // Onda do seno
+            ctx.strokeStyle = '#10b981';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            for (let i = 0; i < 200; i++) {
+                const waveX = waveStartX + i;
+                const amplitude = 60;
+                const wY = centerY + amplitude * Math.sin(t - i * 0.05);
+                
+                if (i === 0) {
+                    ctx.moveTo(waveX, wY);
+                } else {
+                    ctx.lineTo(waveX, wY);
+                }
+            }
+            ctx.stroke();
+            
+            // Texto
+            ctx.fillStyle = '#1f2937';
+            ctx.font = 'bold 20px Arial';
+            ctx.fillText('sin(θ) e cos(θ)', 20, 30);
+            
+            ctx.font = '16px Arial';
+            ctx.fillText('θ = ' + (t % (Math.PI * 2)).toFixed(2), 20, 55);
+            
+            t += 0.03;
+            
+            requestAnimationFrame(animate);
+        }
+        
+        animate();
+    </script>
+</body>
+</html>
