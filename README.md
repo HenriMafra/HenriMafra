@@ -1,7 +1,6 @@
 # ✨ Bem-vindo! ✨
 
-- 👨‍💻 Estudante de Ciência da Computação
-- 📊 Estagiário de Ciência de Dados
+- 👨‍💻 Estudante de Ciência de Dados e Machine Learning
 - 🐍 Apaixonado por Python e Machine Learning
 
 ---
