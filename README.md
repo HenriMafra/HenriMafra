@@ -10,8 +10,8 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HR-D5-AI&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-D5-AI&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HenriMafraI&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
 
 </div>
 
@@ -46,6 +46,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/henri_afly)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/henrimafra)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HR-D5-AI&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
+![Profile Views](https://komarev.com/ghpvc/?username=HenriMafra&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
 </div>
