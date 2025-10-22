@@ -29,10 +29,6 @@
 
 <div align="center">
 
-## 🎮 Animação Matemática Interativa
-
-### 📐 Visualização de sin(θ) e cos(θ)
-
 <img src="https://raw.githubusercontent.com/HenriMafra/animacao-matematica/main/preview.gif" width="80%" alt="Animação Matemática"/>
 
 <a href="https://henrimafra.github.io/animacao-matematica/" target="_blank">
