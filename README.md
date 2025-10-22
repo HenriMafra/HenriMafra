@@ -4,8 +4,9 @@
 * 🤖 Apaixonado por Inteligência Artificial
 * 🐍 Entusiasta de Python e Deep Learning
 
+<!-- https://imgur.com/LNLxajc -->
 <div align="center">
-  <img src="https://i.imgur.com/LNLxajc.gif" width="60%" alt="GIF"/>
+  <img src="SEU_SEGUNDO_GIF_AQUI" width="60%" alt="GIF"/>
 </div>
 
 ## 📊 Estatísticas e Linguagens Mais Usadas
@@ -29,10 +30,16 @@
 
 <div align="center">
 
+## 🎮 Animação Matemática Interativa
+
+### 📐 Visualização de sin(θ) e cos(θ)
+
 <img src="https://raw.githubusercontent.com/HenriMafra/animacao-matematica/main/preview.gif" width="80%" alt="Animação Matemática"/>
 
 <a href="https://henrimafra.github.io/animacao-matematica/" target="_blank">
   <img src="https://img.shields.io/badge/VER_ANIMAÇÃO_AO_VIVO-9333ea?style=for-the-badge&logo=github&logoColor=white" alt="Ver Animação"/>
 </a>
+
+*Visualização interativa das funções seno e cosseno em tempo real!*
 
 </div>
