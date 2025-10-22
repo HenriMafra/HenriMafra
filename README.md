@@ -4,11 +4,6 @@
 - 🤖 Apaixonado por Inteligência Artificial
 - 🐍 Entusiasta de Python e Deep Learning
 
-<!-- Coloque aqui o link do seu segundo GIF -->
-<div align="center">
-<img src="https://imgur.com/LNLxajc" width="60%" alt="GIF"/>
-</div>
-
 ---
 
 ## 📊 Estatísticas e Linguagens Mais Usadas
