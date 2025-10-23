@@ -1,43 +1,51 @@
-# :sparkles: Bem-vindo! :sparkles:
+# ✨ Bem-vindo! ✨
 
-- :man_technologist: Estudante de Ciência de Dados e Machine Learning
-- :robot: Apaixonado por Inteligência Artificial
-- :snake: Entusiasta de Python e Deep Learning
+- 👨‍💻 Estudante de Ciência de Dados e Machine Learning
+- 🤖 Apaixonado por Inteligência Artificial
+- 🐍 Entusiasta de Python e Deep Learning
 
 ---
 
-## :bar_chart: Estatísticas e Linguagens Mais Usadas
+## 📊 Estatísticas e Linguagens Mais Usadas
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Estatísticas do GitHub de HenriMafra" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Principais Linguagens de HenriMafra" />
 
 </div>
 
 ---
 
-## :tools: Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## :mailbox: Conexões
+## 💻 Portfólio
+
+Se você deseja ver meus projetos detalhados, clique no botão abaixo para acessar meu portfólio completo, construído em HTML/CSS/JS:
+
+<div align="center">
+    <a href="SEU_LINK_DO_PORTFOLIO" target="_blank">
+        <img alt="Botão - Ver Portfólio Completo" src="https://img.shields.io/badge/PORTFÓLIO-00D9FF?style=for-the-badge&logo=link&logoColor=black" />
+    </a>
+</div>
+
+---
+
+## 📫 Conexões
 
 <div align="center">
 
@@ -45,6 +53,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henri.afly@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/henri_afly)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/henrimafra)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HR-D5-AI&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
