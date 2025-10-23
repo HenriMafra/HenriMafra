@@ -1,267 +1,51 @@
-<html lang="pt-br" class="sr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# :sparkles: Bem-vindo! :sparkles:
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+- :man_technologist: Estudante de Ciência de Dados e Machine Learning
+- :robot: Apaixonado por Inteligência Artificial
+- :snake: Entusiasta de Python e Deep Learning
 
-    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+---
 
-    <link rel="shortcut icon" href="src/image/code.png">
+## :bar_chart: Estatísticas e Linguagens Mais Usadas
 
-    <link rel="stylesheet" href="./src/css/reset.css">
-    <link rel="stylesheet" href="./src/css/style.css">
-    <link rel="stylesheet" href="./src/css/responsive.css">
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
 
-    <title>Henri Mafra Portfólio</title>
-</head>
+</div>
 
-<body style="height: 100%;">
-    <header class="header">
-        <a href="#" class="logo"> HM &lt;&gt; </a>
-        <nav class="navbar">
-            <a href="#home" class="active">Home</a>
-            <a href="#about">Sobre mim</a>
-            <a href="#services">Habilidades</a>
-            <a href="#portfolio">Projetos</a>
-            <a href="#contact">Contato</a>
-        </nav>
-        <div class="bx bx-sun" id="darkMode-icon"></div>
-        <div class="bx bx-menu" id="menu-icon"></div>
-    </header>
+---
 
-    <section class="home" id="home">
-        <div class="home-content" data-sr-id="0" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: all, opacity 2s cubic-bezier(0.5, 0, 0, 1) 0.2s, transform 2s cubic-bezier(0.5, 0, 0, 1) 0.2s;">
-            <h3 data-sr-id="15" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: all, opacity 2s cubic-bezier(0.5, 0, 0, 1) 0.2s, transform 2s cubic-bezier(0.5, 0, 0, 1) 0.2s;">✨ Bem-vindo! Eu sou</h3>
-            <h1 data-sr-id="14" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: all, opacity 2s cubic-bezier(0.5, 0, 0, 1) 0.2s, transform 2s cubic-bezier(0.5, 0, 0, 1) 0.2s;"><strong>Henri Mafra</strong></h1>
-            <p data-sr-id="16" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: all, opacity 2s cubic-bezier(0.5, 0, 0, 1) 0.2s, transform 2s cubic-bezier(0.5, 0, 0, 1) 0.2s;">
-                Estudante de Ciência de Dados e Machine Learning, apaixonado por Inteligência Artificial e entusiasta de Python e Deep Learning. Dedicado a transformar dados em insights e soluções inteligentes.
-            </p>
-            <div class="social-media">
-                <a href="https://www.linkedin.com/in/henri-felipe-marques-mafra-961538352/" target="_blank" style="--i:8"><i class="bx bxl-linkedin"></i></a>
-                <a href="https://github.com/HenriMafra" target="_blank" style="--i:7"><i class="bx bxl-github"></i></a>
-                <a href="mailto:henri.afly@gmail.com" target="_blank" style="--i:9"><i class="bx bxl-gmail"></i></a>
-                <a href="https://www.kaggle.com/henrimafra" target="_blank" style="--i:10"><i class="bx bxl-kaggle"></i></a>
-            </div>
-            </div>
+## :tools: Linguagens e Tecnologias
 
-        <div class="profession-container">
-            <div class="profession-box">
-                <div class="profession" style="--i:0;">
-                    <i class="bx bxl-python"></i>
-                    <h3>Python</h3>
-                </div>
+<div align="center">
 
-                <div class="profession" style="--i:1;">
-                    <i class="bx bxs-brain"></i>
-                    <h3>IA & ML</h3>
-                </div>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-                <div class="profession" style="--i:2;">
-                    <i class="bx bxs-data"></i>
-                    <h3>Data Science</h3>
-                </div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-                <div class="profession" style="--i:3;">
-                    <i class="bx bxl-postgresql"></i>
-                    <h3>PostgreSQL</h3>
-                </div>
-                
-                <div class="profession" style="--i:4;">
-                    <i class="bx bxl-javascript"></i>
-                    <h3>JavaScript</h3>
-                </div>
+</div>
 
-                <div class="profession" style="--i:5;">
-                    <i class="bx bx-code-alt"></i>
-                    <h3>R Language</h3>
-                </div>
+---
 
-                <div class="circle"></div>
-            </div>
+## :mailbox: Conexões
 
-            <div class="overlay">
-            </div>
-        </div>
-    </section>
+<div align="center">
 
-    <section class="about" id="about">
-        <div class="about-content" data-sr-id="17" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
-            <h2 class="heading" data-sr-id="2" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><strong>Sobre mim</strong></h2>
-            <p>
-                Sou estudante de **Ciência de Dados e Machine Learning**, com grande entusiasmo por Inteligência Artificial e Deep Learning. Minha jornada é impulsionada pela paixão em desvendar padrões e criar soluções baseadas em dados. Tenho proficiência em **Python** e um forte interesse em transformar desafios complexos em modelos preditivos eficazes.
-                <span id="pontos">...</span><span id="mais">
-                    <br><br>
-                    Estou constantemente explorando novas abordagens e aprimorando minhas habilidades em ferramentas essenciais como Pandas, NumPy, Scikit-learn e Jupyter, além de bancos de dados como PostgreSQL. Acredito no poder da tecnologia para gerar impacto positivo e estou sempre em busca de projetos inovadores para aplicar e expandir meus conhecimentos.
-                </span>
-            </p>
-            <button class="btn" onclick="leiaMais()" id="btnLeiaMais">Leia Mais</button>
-        </div>
-    </section>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-felipe-marques-mafra-961538352/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henri.afly@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/henri_afly)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/henrimafra)
 
-    <section class="services" id="services">
-        <h2 class="heading" data-sr-id="3" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><strong>Minhas Habilidades</strong></h2>
-        
-        <div class="services-container" data-sr-id="6" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
-            <div class="services-box">
-                <i class="bx bxl-python"></i>
-                <h3>Python</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bx-code-alt"></i>
-                <h3>R Language</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bxs-data"></i>
-                <h3>PostgreSQL</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bx-aperture"></i>
-                <h3>Pandas</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bx-math"></i>
-                <h3>NumPy</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bx-hive"></i>
-                <h3>Scikit-Learn</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bxl-javascript"></i>
-                <h3>Javascript</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bxl-html5"></i>
-                <h3>HTML5</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bxl-css3"></i>
-                <h3>CSS3</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bx-git-branch"></i>
-                <h3>Git</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bxl-github"></i>
-                <h3>GitHub</h3>
-            </div>
-            <div class="services-box">
-                <i class="bx bxs-book-content"></i>
-                <h3>Jupyter</h3>
-            </div>
-        </div>
-        
-        <h2 class="heading" style="margin-top: 3rem;"><strong>Estatísticas do GitHub</strong></h2>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Estatísticas do GitHub"/>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Linguagens Mais Usadas"/>
-        </div>
-        <div style="text-align: center; margin-top: 20px;">
-             <img src="https://komarev.com/ghpvc/?username=HenriMafra&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES" alt="Contagem de Visualizações de Perfil"/>
-        </div>
-    </section>
+![Profile Views](https://komarev.com/ghpvc/?username=HR-D5-AI&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
-    <section class="portfolio" id="portfolio">
-        <h2 class="heading" data-sr-id="4" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><strong>Meus Projetos</strong></h2>
-        <div class="portfolio-container">
-            <div class="portfolio-box" data-sr-id="7" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
-                <img src="./src/image/data_analysis_placeholder.png" alt="Imagem de um projeto de Análise de Dados">
-
-                <div class="portfolio-layer">
-                    <h4>Análise de Dados com Pandas</h4>
-                    <p>Projeto de análise exploratória utilizando bibliotecas Pandas e Matplotlib para extrair insights de um dataset público sobre...</p>
-                    <div class="icons">
-                        <a href="https://github.com/HenriMafra/seus_projetos" target="_blank">Código</a>
-                        <a href="https://github.com/HenriMafra/seus_projetos" target="_blank">Projeto</a>
-                    </div>
-                </div>
-            </div>
-            <div class="portfolio-box" data-sr-id="8" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
-                <img src="./src/image/ml_placeholder.png" alt="Imagem de um projeto de Machine Learning">
-
-                <div class="portfolio-layer">
-                    <h4>Modelo de Classificação de ML</h4>
-                    <p>Desenvolvimento e treinamento de um modelo de Machine Learning (Scikit-learn) para classificação de dados de clientes/imagens.</p>
-                    <div class="icons">
-                        <a href="https://github.com/HenriMafra/seus_projetos" target="_blank">Código</a>
-                        <a href="https://github.com/HenriMafra/seus_projetos" target="_blank">Projeto</a>
-                    </div>
-                </div>
-            </div>
-            <div class="portfolio-box" data-sr-id="9" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
-                <img src="./src/image/deep_learning_placeholder.png" alt="Imagem de um projeto de Deep Learning">
-
-                <div class="portfolio-layer spotify">
-                    <h4>Introdução ao Deep Learning</h4>
-                    <p>Projeto utilizando Redes Neurais com TensorFlow/Keras para reconhecimento de padrões em grandes volumes de dados.</p>
-                    <div class="icons">
-                        <a href="https://github.com/HenriMafra/seus_projetos" target="_blank">Código</a>
-                        <a href="https://github.com/HenriMafra/seus_projetos" target="_blank">Projeto</a>
-                    </div>
-                </div>
-            </div>
-            </div>
-    </section>
-
-    <section class="contact" id="contact">
-        <h2 class="heading" data-sr-id="5" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><strong>Contate-me!</strong></h2>
-
-        <form action="https://api.staticforms.xyz/submit" method="post" data-sr-id="13" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
-            <div class="input-box">
-                <input type="text" name="name" placeholder="Nome completo" required="">
-                <input type="email" name="email" placeholder="Endereço de email" required="">
-            </div>
-            <div class="input-box">
-                <input type="number" name="number" placeholder="Número de celular" required="">
-                <input type="text" name="text" placeholder="Assunto" required="">
-            </div>
-            <textarea name="message" id="" cols="30" rows="10" placeholder="Sua mensagem" required=""></textarea>
-            <input type="submit" value="Enviar mensagem" class="btn">
-
-            <input type="hidden" name="accessKey" value="c9c968b0-0e79-421b-97c8-e1c8ccf61090">
-            <input type="hidden" name="redirectTo" value="https://sdesuzane.github.io/obrigada">
-        </form>
-    </section>
-
-    <footer class="footer">
-        <div class="footer-text">
-            <p>Copyright © 2024 por Henri Mafra | Todos os direitos reservados</p>
-        </div>
-
-        <div class="footer-iconTop">
-            <a href="#home"><i class="bx bx-up-arrow-alt"></i></a>
-        </div>
-    </footer>
-
-    <script src="https://unpkg.com/scrollreveal"></script>
-
-    <script src="./src/js/index.js"></script>
-
-    <script>
-        function leiaMais() {
-            var pontos = document.getElementById("pontos");
-            var maisTexto = document.getElementById("mais");
-            var btnLeiaMais = document.getElementById("btnLeiaMais");
-
-            if (pontos.style.display === "none") {
-                pontos.style.display = "inline";
-                maisTexto.style.display = "none";
-                btnLeiaMais.innerHTML = "Leia Mais";
-            } else {
-                pontos.style.display = "none";
-                maisTexto.style.display = "inline";
-                btnLeiaMais.innerHTML = "Mostrar Menos";
-            }
-        }
-
-        // Garante que o texto extra esteja oculto ao carregar
-        document.addEventListener('DOMContentLoaded', (event) => {
-            document.getElementById("mais").style.display = "none";
-        });
-    </script>
-</body>
-</html>
+</div>
