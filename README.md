@@ -17,7 +17,7 @@
 
 ---
 
-## :tools : Linguagens e Tecnologias
+## tools : Linguagens e Tecnologias
 
 <div align="center">
 
