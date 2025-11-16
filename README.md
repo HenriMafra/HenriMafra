@@ -4,12 +4,12 @@
 
 </div>
 
-- Estudante de Ciência de Dados e Machine Learning
-- Apaixonado por Inteligência Artificial
-- Entusiasta de Python e Deep Learning
+- 👨‍💻 Estudante de Ciência de Dados e Machine Learning
+- 🤖 Apaixonado por Inteligência Artificial
+- 🐍 Entusiasta de Python e Deep Learning
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/PinDown.io_%40marchiMilano_1763267579.gif"  />
+  <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/giphy.gif"  />
 </div>
 
 ---
