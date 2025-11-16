@@ -5,6 +5,13 @@
 - 🐍 Entusiasta de Python e Deep Learning
 
 ---
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzdnM2bzY1bnd2azNtZmJmOTA2aHMxaWJ6YWcxdmo5NjVscHFtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+</div>
+
+###
 
 ## 📊 Estatísticas e Linguagens Mais Usadas
 
