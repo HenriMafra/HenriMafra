@@ -9,7 +9,7 @@
 - Entusiasta de Python e Deep Learning
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/PinDown.io_%40marchiMilano_1763267579.gif"  />
+  <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/PinDown.io_%40marchiMilano_1763267579.gif"  />
 </div>
 
 ---
