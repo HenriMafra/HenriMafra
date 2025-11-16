@@ -15,7 +15,11 @@
 <br>
 <br>
 
+<div align="center">
+
 **📊 Estatísticas e Linguagens Mais Usadas**
+
+</div>
 
 <div align="center">
 
@@ -27,7 +31,11 @@
 <br>
 <br>
 
+<div align="center">
+
 **💻 Linguagens e Tecnologias**
+
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -39,7 +47,11 @@
 <br>
 <br>
 
+<div align="center">
+
 **🔗 Conexões**
+
+</div>
 
 <div align="center">
 
@@ -60,7 +72,11 @@
 <br>
 <br>
 
+<div align="center">
+
 **🌐 Portfólio**
+
+</div>
 
 <div align="center">
 
