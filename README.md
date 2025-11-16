@@ -18,8 +18,8 @@
 
 ## 📊 Estatísticas e Linguagens Mais Usadas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HR-D5-AI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-D5-AI&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -58,6 +58,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-felipe-marques-mafra-961538352/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henri.afly@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HR-D5-AI&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
+![Profile Views](https://komarev.com/ghpvc/?username=HenriMafra&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
 </div>
