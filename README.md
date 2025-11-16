@@ -5,11 +5,13 @@
 </div>
 
 <br>
+<br>
 
 - 👨‍💻 Estudante de Ciência de Dados e Machine Learning
 - 🤖 Apaixonado por Inteligência Artificial
 - 🐍 Entusiasta de Python e Deep Learning
 
+<br>
 <br>
 
 <div align="center">
@@ -18,13 +20,15 @@
 
 <br>
 <br>
+<br>
 
 <div align="center">
 
-**📊 Estatísticas e Linguagens Mais Usadas**
+### 📊 Estatísticas e Linguagens Mais Usadas
 
 </div>
 
+<br>
 <br>
 
 <div align="center">
@@ -36,13 +40,15 @@
 
 <br>
 <br>
+<br>
 
 <div align="center">
 
-**💻 Linguagens e Tecnologias**
+### 💻 Linguagens e Tecnologias
 
 </div>
 
+<br>
 <br>
 
 <div align="center">
@@ -54,13 +60,15 @@
 
 <br>
 <br>
+<br>
 
 <div align="center">
 
-**🔗 Conexões**
+### 🔗 Conexões
 
 </div>
 
+<br>
 <br>
 
 <div align="center">
@@ -81,13 +89,15 @@
 
 <br>
 <br>
+<br>
 
 <div align="center">
 
-**🌐 Portfólio**
+### 🌐 Portfólio
 
 </div>
 
+<br>
 <br>
 
 <div align="center">
