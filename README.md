@@ -1,7 +1,5 @@
 <div align="center">
-
 # ✨ Bem-vindo! ✨
-
 </div>
 
 - 👨‍💻 Estudante de Ciência de Dados e Machine Learning
@@ -18,8 +16,10 @@
 
 ## 📊 Estatísticas e Linguagens Mais Usadas
 
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 </div>
 
