@@ -9,7 +9,7 @@
 - 🐍 Entusiasta de Python e Deep Learning
 
 <div align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzdnM2bzY1bnd2azNtZmJmOTA2aHMxaWJ6YWcxdmo5NjVscHFtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="400" alt="coding gif"/>
 </div>
 
 ---
