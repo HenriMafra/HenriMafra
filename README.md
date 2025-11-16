@@ -1,22 +1,22 @@
 <div align="center">
 
-# ✨ Bem-vindo! ✨
+# Bem-vindo
 
 </div>
 
-- 👨‍💻 Estudante de Ciência de Dados e Machine Learning
-- 🤖 Apaixonado por Inteligência Artificial
-- 🐍 Entusiasta de Python e Deep Learning
+- Estudante de Ciência de Dados e Machine Learning
+- Apaixonado por Inteligência Artificial
+- Entusiasta de Python e Deep Learning
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/giphy.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/PinDown.io_%40marchiMilano_1763267579.gif"  />
 </div>
 
 ---
 
 <div align="center">
 
-## 📊 Estatísticas e Linguagens Mais Usadas
+## Estatísticas e Linguagens Mais Usadas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## 🛠️ Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A9?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,20 +43,9 @@
 
 <div align="center">
 
-## 💻 Portfólio
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://henrimafra.github.io/)
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Conexões
+## Conexões
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-felipe-marques-mafra-961538352/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henri.afly@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenriMafra&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
@@ -69,3 +58,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriMafra/HenriMafra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+
+## Portfólio
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://henrimafra.github.io/)
+
+</div>
