@@ -46,7 +46,7 @@
 <tr>
 <td align="center" width="50%">
 
-###  Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <br>
 
@@ -58,7 +58,7 @@
 </td>
 <td align="center" width="50%">
 
-###  Conexões
+##  Conexões
 
 <br>
 
