@@ -4,9 +4,13 @@
 
 </div>
 
+<br>
+
 - 👨‍💻 Estudante de Ciência de Dados e Machine Learning
 - 🤖 Apaixonado por Inteligência Artificial
 - 🐍 Entusiasta de Python e Deep Learning
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/giphy.gif"  />
@@ -20,6 +24,8 @@
 **📊 Estatísticas e Linguagens Mais Usadas**
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -37,6 +43,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
@@ -52,6 +60,8 @@
 **🔗 Conexões**
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -77,6 +87,8 @@
 **🌐 Portfólio**
 
 </div>
+
+<br>
 
 <div align="center">
 
