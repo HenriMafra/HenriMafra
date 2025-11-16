@@ -10,20 +10,18 @@
   <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/giphy.gif"  />
 </div>
 
----
+<br>
+<br>
 
 <div align="center">
 
 ## 📊 Estatísticas e Linguagens Mais Usadas
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -38,7 +36,8 @@
 
 </div>
 
----
+<br>
+<br>
 
 <div align="center">
 
@@ -49,7 +48,8 @@
 
 </div>
 
----
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriMafra/HenriMafra/output/pacman-contribution-graph-dark.svg">
