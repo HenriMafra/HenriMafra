@@ -45,9 +45,7 @@
 
 ## 💻 Portfólio
 
-Se você deseja ver meus projetos detalhados, clique no botão abaixo para acessar meu portfólio completo, construído em HTML/CSS/JS:
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hr-d5-ai.github.io/Portifolio.henri/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://henrimafra.github.io/)
 
 </div>
 
