@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### 📊 Estatísticas e Linguagens Mais Usadas
+###  Estatísticas e Linguagens Mais Usadas
 
 </div>
 
@@ -46,7 +46,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 💻 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <br>
 
@@ -58,7 +58,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🔗 Conexões
+###  Conexões
 
 <br>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-### 🌐 Portfólio
+###  Portfólio
 
 </div>
 
