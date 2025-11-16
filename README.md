@@ -5,6 +5,7 @@
 - 🐍 Entusiasta de Python e Deep Learning
 
 ---
+
 <br clear="both">
 
 <div align="center">
