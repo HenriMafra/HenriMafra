@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/giphy.gif"  />
+  <img src="https://raw.githubusercontent.com/HenriMafra/HenriMafra/main/giphy.gif" width="400" />
 </div>
 
 <br>
