@@ -4,12 +4,12 @@
 
 </div>
 
-<div align="center">
-
 - 👨‍💻 Estudante de Ciência de Dados e Machine Learning
 - 🤖 Apaixonado por Inteligência Artificial
 - 🐍 Entusiasta de Python e Deep Learning
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzdnM2bzY1bnd2azNtZmJmOTA2aHMxaWJ6YWcxdmo5NjVscHFtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="400"/>
 </div>
 
 ---
