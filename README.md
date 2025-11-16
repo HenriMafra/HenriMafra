@@ -42,41 +42,32 @@
 <br>
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ### 💻 Linguagens e Tecnologias
 
-</div>
-
-<br>
 <br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
 
-<br>
-<br>
-<br>
-
-<div align="center">
+</td>
+<td align="center" width="50%">
 
 ### 🔗 Conexões
 
-</div>
-
 <br>
-<br>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-felipe-marques-mafra-961538352/)
 ![Profile Views](https://komarev.com/ghpvc/?username=HenriMafra&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 <br>
