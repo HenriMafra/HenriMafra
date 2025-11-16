@@ -15,15 +15,19 @@
 <br>
 <br>
 
+**📊 Estatísticas e Linguagens Mais Usadas**
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 <br>
 <br>
+
+**💻 Linguagens e Tecnologias**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -34,6 +38,8 @@
 
 <br>
 <br>
+
+**🔗 Conexões**
 
 <div align="center">
 
@@ -53,6 +59,8 @@
 
 <br>
 <br>
+
+**🌐 Portfólio**
 
 <div align="center">
 
