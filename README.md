@@ -3,7 +3,6 @@
 # ✨ Bem-vindo! ✨
 
 </div>
-
 <br>
 <br>
 
@@ -23,19 +22,14 @@
 <br>
 
 <div align="center">
-
-###  Estatísticas e Linguagens Mais Usadas
-
+  <h3>📊 Estatísticas e Linguagens Mais Usadas</h3>
 </div>
 
 <br>
-<br>
 
 <div align="center">
-
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight"/>
-
 </div>
 
 <br>
@@ -46,10 +40,9 @@
 <tr>
 <td align="center" width="50%">
 
-##  Linguagens e Tecnologias
+<h2>🛠️ Linguagens e Tecnologias</h2>
 
 <br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
@@ -58,7 +51,7 @@
 </td>
 <td align="center" width="50%">
 
-##  Conexões
+<h2>🔗 Conexões</h2>
 
 <br>
 
@@ -83,12 +76,9 @@
 <br>
 
 <div align="center">
-
-###  Portfólio
-
+  <h3>🗂️ Portfólio</h3>
 </div>
 
-<br>
 <br>
 
 <div align="center">
