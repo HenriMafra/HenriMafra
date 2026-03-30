@@ -23,8 +23,8 @@
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriMafra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
@@ -75,16 +75,8 @@
 
 <br>
 <br>
-
-<div align="center">
-  <h3>🗂️ Projetos em Destaque</h3>
-  <br>
-  <a href="https://github.com/HenriMafra/dashboard-cartoes.gov">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriMafra&repo=dashboard-cartoes.gov&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
-
 <br>
+
 <div align="center">
   <a href="https://henrimafra.github.io/">
     <img src="https://img.shields.io/badge/Acessar_Portfólio_Completo-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
