@@ -7,7 +7,7 @@
 
 - 👨‍💻 **Estudante de Ciência de Dados e Machine Learning**
 - 🤖 Apaixonado por **Inteligência Artificial** e Automações
-- 🐍 Entusiasta de **Python**, LLMs e Ciência de Dados
+- 🐍 Entusiasta de **Matemática**, Python e LLMs
 
 <br>
 
