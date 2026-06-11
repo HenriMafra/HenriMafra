@@ -63,12 +63,6 @@ class Henri:
 
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HenriMafra&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7&line=bb9af7&point=ffffff" />
 
-<br/>
-
-🏆 **Troféus & Conquistas**
-
-<img src="https://github-profile-trophy.vercel.app/?username=HenriMafra&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
-
 </div>
 
 <br/>
