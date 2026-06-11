@@ -6,8 +6,8 @@
 <br>
 
 - 👨‍💻 **Estudante de Ciência de Dados e Machine Learning**
-- 🤖 Apaixonado por **Inteligência Artificial** e Automações
-- 🐍 Entusiasta de **Matemática**, Python e LLMs
+- 🤖 Viciado em **Inteligência Artificial** e Automações
+- 🐍 Entusiasta de **Matemática**, Python e LLMs e IA
 
 <br>
 
