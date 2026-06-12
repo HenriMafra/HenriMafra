@@ -1,10 +1,10 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Henri%20Mafra&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Ci%C3%AAncia%20de%20Dados%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Construindo%20produtos%20com%20IA&descAlignY=56&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Henri%20Mafra&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Ci%C3%AAncia%20de%20Dados%20%E2%80%A2%20Machine%20Learning&descAlignY=56&descSize=16" />
 
 <a href="https://github.com/HenriMafra">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Estudante%20de%20Ci%C3%AAncia%20de%20Dados%20%26%20ML%20%F0%9F%A4%96;Construo%20apps%20e%20SaaS%20de%20verdade%20com%20IA%20%E2%9A%A1;Apaixonado%20por%20IA%2C%20LLMs%20e%20Automa%C3%A7%C3%A3o%20%F0%9F%A7%A0;Aprendendo%20em%20p%C3%BAblico%2C%20todo%20dia%20%F0%9F%9A%80" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Estudante%20de%20Ci%C3%AAncia%20de%20Dados%20%26%20ML%20%F0%9F%A4%96;Apaixonado%20por%20IA%2C%20LLMs%20e%20Automa%C3%A7%C3%A3o%20%F0%9F%A7%A0;Aprendendo%20em%20p%C3%BAblico%2C%20todo%20dia%20%F0%9F%9A%80" alt="typing" />
 </a>
 
 <br/>
