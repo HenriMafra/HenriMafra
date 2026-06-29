@@ -10,7 +10,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenriMafra&color=7AA2F7&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-felipe-marques-mafra-961538352/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://henrimafra.github.io/)
 
 </div>
