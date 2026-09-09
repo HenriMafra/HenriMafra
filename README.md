@@ -42,11 +42,11 @@ class Henri:
 
 <div align="center">
 
-**📊 Dados & Machine Learning — o que eu realmente estudo**
+**📊 Dados & Machine Learning **
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda,mysql,postgres&perline=7" />
 
-**🌐 Web & Cloud — ferramentas que uso pra entregar produtos (a IA escreve boa parte do código)**
+**🌐 Web & Cloud **
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,supabase,cloudflare,git,github,vscode,figma&perline=12" />
 
