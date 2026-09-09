@@ -42,11 +42,11 @@ class Henri:
 
 <div align="center">
 
-**📊 Dados & Machine Learning **
+📊 Dados & Machine Learning 
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda,mysql,postgres&perline=7" />
 
-**🌐 Web & Cloud **
+🌐 Web & Cloud 
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,supabase,cloudflare,git,github,vscode,figma&perline=12" />
 
