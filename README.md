@@ -3,17 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb&height=160&section=header&text=Henri%20Mafra&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Systems+Engineering+%26+Edge+Runtimes;Exploit+Research+%26+Binary+Analysis;Linux+Internals%2C+C+%26+Assembly;Distributed+Systems+%26+Columnar+Analytics" alt="typing" />
-
-<br>
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 <br><br>
 
 <table width="100%">
   <tr>
-    <td align="left"><samp>&gt; <b>IDENT:</b> Henri Mafra</samp></td>
-    <td align="center"><samp>&gt; <b>STACK:</b> Systems & Exploit Research</samp></td>
+    <td align="left"><samp><b>Henri Mafra</b></samp></td>
     <td align="right">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriMafra.HenriMafra&left_color=black&right_color=blue" alt="Visitors" />
     </td>
@@ -24,7 +19,7 @@
 
 <table width="100%">
   <tr>
-    <th align="center">CORE TECHNOLOGIES</th>
+    <th align="center">STACK</th>
   </tr>
   <tr>
     <td align="center">
@@ -56,47 +51,42 @@
 
 <table width="100%">
   <tr>
-    <th align="center" colspan="3">RESEARCH LOGBOOK: EXPLOIT & SYSTEMS</th>
+    <th align="center" colspan="2">EXPLOIT & SYSTEMS TRACK</th>
   </tr>
   <tr>
-    <th align="left" width="28%">Unit</th>
-    <th align="left" width="42%">Core Focus</th>
-    <th align="center" width="30%">Toolchain</th>
+    <th align="left" width="45%">Module</th>
+    <th align="center" width="55%">Toolchain</th>
   </tr>
   <tr>
-    <td><b>01. Silicon & Linux</b></td>
-    <td>x86_64, Virtual Memory, Syscalls</td>
+    <td><b>Silicon Substrate & Linux Internals</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=388BFD" alt="C" />
-      <img src="https://img.shields.io/badge/ASM-000000?style=flat-square&logoColor=ffffff" alt="ASM" />
-      <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=388BFD" alt="Linux" />
+      <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=388BFD" alt="C" />
+      <img src="https://img.shields.io/badge/x86--64-000000?style=for-the-badge&logoColor=ffffff" alt="x86_64" />
+      <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=388BFD" alt="Linux" />
     </td>
   </tr>
   <tr>
-    <td><b>02. Binary Exploitation</b></td>
-    <td>ROP Chains, Heap Structure, Fuzzing</td>
+    <td><b>Binary Exploitation & Memory Safety</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logoColor=388BFD" alt="Ghidra" />
-      <img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logoColor=ffffff" alt="GDB" />
-      <img src="https://img.shields.io/badge/AFL++-000000?style=flat-square&logoColor=388BFD" alt="AFL++" />
+      <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=388BFD" alt="Ghidra" />
+      <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=ffffff" alt="GDB" />
+      <img src="https://img.shields.io/badge/AFL++-000000?style=for-the-badge&logoColor=388BFD" alt="AFL++" />
     </td>
   </tr>
   <tr>
-    <td><b>03. Browser Security</b></td>
-    <td>V8 JIT Pipeline, Mojo IPC Sandbox</td>
+    <td><b>Browser Security & V8 JIT</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/V8-000000?style=flat-square&logo=googlechrome&logoColor=388BFD" alt="V8" />
-      <img src="https://img.shields.io/badge/AST-000000?style=flat-square&logoColor=388BFD" alt="AST" />
-      <img src="https://img.shields.io/badge/Mojo-000000?style=flat-square&logoColor=388BFD" alt="Mojo" />
+      <img src="https://img.shields.io/badge/V8-000000?style=for-the-badge&logo=googlechrome&logoColor=388BFD" alt="V8" />
+      <img src="https://img.shields.io/badge/Compilers-000000?style=for-the-badge&logoColor=388BFD" alt="Compilers" />
+      <img src="https://img.shields.io/badge/Mojo-000000?style=for-the-badge&logoColor=388BFD" alt="Mojo" />
     </td>
   </tr>
   <tr>
-    <td><b>04. Columnar Analytics</b></td>
-    <td>Vectorized Execution, Parquet, OLAP</td>
+    <td><b>Columnar Analytics</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/DuckDB-000000?style=flat-square&logo=duckdb&logoColor=388BFD" alt="DuckDB" />
-      <img src="https://img.shields.io/badge/dbt-000000?style=flat-square&logo=dbt&logoColor=388BFD" alt="dbt" />
-      <img src="https://img.shields.io/badge/Parquet-000000?style=flat-square&logoColor=388BFD" alt="Parquet" />
+      <img src="https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=388BFD" alt="DuckDB" />
+      <img src="https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=388BFD" alt="dbt" />
+      <img src="https://img.shields.io/badge/Parquet-000000?style=for-the-badge&logoColor=388BFD" alt="Parquet" />
     </td>
   </tr>
 </table>
@@ -105,7 +95,7 @@
 
 <table width="100%">
   <tr>
-    <th align="center" colspan="2">TELEMETRY & ACTIVITY</th>
+    <th align="center" colspan="2">TELEMETRY</th>
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -136,10 +126,11 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <samp><b>INTERACTIVE RUNTIME // NEON SNAKE</b></samp><br><br>
+      <br>
       <a href="https://henrimafra.github.io/game/">
-        <img src="https://img.shields.io/badge/LAUNCH_GAME-1f6feb?style=for-the-badge&logo=gamejolt&logoColor=ffffff&labelColor=0d1117" height="40" alt="Launch Game" />
+        <img src="https://img.shields.io/badge/NEON_SNAKE-1f6feb?style=for-the-badge&logo=gamejolt&logoColor=ffffff&labelColor=0d1117" height="42" alt="Neon Snake" />
       </a>
+      <br><br>
     </td>
   </tr>
 </table>
