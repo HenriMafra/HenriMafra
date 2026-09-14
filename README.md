@@ -7,6 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Systems+Engineering+%26+Edge+Runtimes;Exploit+Research+%26+Binary+Analysis;Linux+Internals%2C+C+%26+Assembly;Distributed+Systems+%26+Columnar+Analytics" alt="typing" />
 
 <br>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+<br><br>
 
 <table width="100%">
   <tr>
@@ -85,6 +87,8 @@
 </table>
 
 <br>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+<br><br>
 
 <table width="100%">
   <tr>
@@ -95,6 +99,8 @@
 </table>
 
 <br>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+<br><br>
 
 <table width="100%">
   <tr>
@@ -184,6 +190,12 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <b>3D ISOMETRIC CONTRIBUTION WAVE</b><br><br>
+      <img src="https://ssr-contributions-svg.vercel.app/_/HenriMafra?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&theme=native&dark=true" width="100%" alt="3D Contributions" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <b>CONTRIBUTION GRID (PAC-MAN ENGINE)</b><br><br>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriMafra/HenriMafra/output/pacman-contribution-graph-dark.svg">
@@ -211,6 +223,8 @@
 </table>
 
 <br>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb&height=100&section=footer" />
 
