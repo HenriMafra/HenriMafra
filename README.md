@@ -1,6 +1,6 @@
 # Henri Mafra
 
-Software engineering, data systems, and low-level security research.
+Building systems, edge runtimes, and data infrastructure. Researching binary exploitation and browser internals.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -16,9 +16,10 @@ Software engineering, data systems, and low-level security research.
 
 ### What I Build
 
-* **Edge Architecture & Micro-Apps:** Distributed applications running on Cloudflare Workers and Pages with Cloudflare D1 SQL storage. Creator of the Forge Suite (collection of 10 standalone productivity and financial utilities).
-* **Data Engineering & Pipelines:** Medallion data architecture implementations (Bronze, Silver, Gold), automated ETL ingestion, relational modeling with PostgreSQL and Supabase, and public API data integration (OpenFDA).
-* **Systems & Process IPC:** Local daemons, WebSocket bridges, browser extensions (Manifest V3), and desktop IPC integrations.
+* **Cloudflare Edge Architecture:** Suite of 10 serverless applications running on Cloudflare Pages and D1 (The Forge Suite: pcforge, pixforge, habitoforge, flashforge).
+* **B2G & Intelligence Systems:** Public tender scoring, opportunity tracking, and automated dossier generation (ATLAS B2G, NTSec Radar).
+* **Data Engineering & Pipelines:** Medallion data architecture (Bronze, Silver, Gold), clinical data validation via OpenFDA, and PostgreSQL / Supabase modeling (Cuidamed, coffee-shop-dw).
+* **Process IPC & Bridges:** Local WebSocket daemons, headless browser extensions, and Discord RPC integrations (prime-discord-presence).
 
 <br>
 
@@ -28,36 +29,52 @@ Software engineering, data systems, and low-level security research.
 
 <br>
 
-### Current Research: Systems & Exploit Engineering
+### Research Track: Systems & Exploit Engineering
 
-Active study track based on low-level systems, memory safety, and browser architecture:
+Active study curriculum based on memory safety, operating systems, and browser runtimes:
 
-<p>
+* **Silicon Substrate & Linux Internals**
+  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Assembly_x86--64-4E5D6C?style=flat-square" alt="x86_64" />
   <img src="https://img.shields.io/badge/Linux_OSTEP-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <br>
+  CPU architecture, virtual memory, paging, address spaces, and syscall interfaces.
+
+* **Binary Exploitation & Memory Safety**
+  <br>
   <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square" alt="Ghidra" />
   <img src="https://img.shields.io/badge/GDB-4B8BF5?style=flat-square" alt="GDB" />
-  <img src="https://img.shields.io/badge/V8_JIT-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="V8" />
+  <img src="https://img.shields.io/badge/AFL++-7B2FBE?style=flat-square" alt="AFL++" />
+  <br>
+  Stack buffer overflows, ROP chains against DEP/NX, glibc malloc heap structure (tcache, fastbins, UAF), and coverage-guided fuzzing.
+
+* **Browser Security & V8 JIT Architecture**
+  <br>
+  <img src="https://img.shields.io/badge/V8_Engine-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="V8" />
+  <img src="https://img.shields.io/badge/Compilers_AST-333333?style=flat-square" alt="Compilers" />
+  <img src="https://img.shields.io/badge/Chromium_Mojo-0A85EA?style=flat-square" alt="Mojo" />
+  <br>
+  JIT compiler pipelines (Ignition and TurboFan), type confusion vulnerabilities, memory primitives (addrof/fakeobj), and Mojo IPC sandbox escapes.
+
+* **High-Throughput Analytics**
+  <br>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-</p>
-
-* **Silicon Substrate & Linux Internals:** CPU architecture, memory layout (Stack and Heap), pointer arithmetic, address spaces, page tables, and syscall interfaces (OSTEP).
-* **Binary Exploitation & Memory Safety:** Disassembly and reverse engineering in Ghidra and GDB, stack buffer overflows, ROP chains against DEP/NX, and glibc malloc heap structure (tcache, fastbins, use-after-free).
-* **Compiler & Browser Architecture:** AST generation, JIT optimization pipelines, Chromium multi-process model, and Google V8 engine internals (Ignition and TurboFan).
-* **High-Throughput Analytics:** In-memory analytical processing with DuckDB, column-oriented Parquet storage, and dimensional modeling with dbt Core.
+  <img src="https://img.shields.io/badge/Apache_Parquet-21557A?style=flat-square" alt="Parquet" />
+  <br>
+  In-memory analytical processing, columnar storage, and code-first dimensional modeling.
 
 ---
 
 ### Featured Repositories
 
-| Project | Focus | Stack |
+| Repository | Focus | Stack |
 | :--- | :--- | :--- |
-| [prime-discord-presence](https://github.com/HenriMafra/prime-discord-presence) | Browser playback sync to Discord via WebSocket IPC bridge. | JavaScript, WebSockets, Discord RPC, Manifest V3 |
-| [Cuidamed](https://github.com/HenriMafra/Cuidamed) | Clinical schedule daemon with OpenFDA verification and CI. | Python, Streamlit, PostgreSQL, Supabase, CI/CD |
-| [projeto-medallion-nyc](https://github.com/HenriMafra/projeto-medallion-nyc) | Pipeline structuring data into Bronze, Silver, and Gold layers. | Python, Pandas, Parquet, Data Pipelines |
-| [forge-hub](https://github.com/HenriMafra/forge-hub) | Hub showcasing 10 standalone serverless edge applications. | React, TypeScript, Cloudflare Pages, Cloudflare D1 |
+| [prime-discord-presence](https://github.com/HenriMafra/prime-discord-presence) | Browser playback sync to Discord via WebSocket IPC bridge. | JavaScript, WebSockets, Discord RPC |
+| [Cuidamed](https://github.com/HenriMafra/Cuidamed) | Clinical schedule system with OpenFDA verification and CI. | Python, Streamlit, PostgreSQL, Supabase |
+| [forge-hub](https://github.com/HenriMafra/forge-hub) | Hub showcasing 10 standalone serverless edge applications. | React, TypeScript, Cloudflare D1 |
+| [ntsec-radar](https://github.com/HenriMafra/ntsec-radar) | Automated B2G tender scoring and dossier generation. | PowerShell, REST APIs, Automation |
 
 ---
 
