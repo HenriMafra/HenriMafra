@@ -50,21 +50,3 @@ Systems Engineering, Edge Runtimes & Exploit Research.
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/Apache_Parquet-21557A?style=flat-square" alt="Parquet" />
-
----
-
-### Featured Repositories
-
-| Repository | Focus | Stack |
-| :--- | :--- | :--- |
-| [prime-discord-presence](https://github.com/HenriMafra/prime-discord-presence) | Browser IPC bridge to Discord RPC | JavaScript, WebSockets |
-| [Cuidamed](https://github.com/HenriMafra/Cuidamed) | Clinical workflow with OpenFDA verification | Python, PostgreSQL, Supabase |
-| [forge-hub](https://github.com/HenriMafra/forge-hub) | Hub of serverless edge applications | React, TypeScript, Cloudflare D1 |
-| [ntsec-radar](https://github.com/HenriMafra/ntsec-radar) | Public tender scoring and tracking | PowerShell, REST APIs |
-
----
-
-### Links
-
-* GitHub: [@HenriMafra](https://github.com/HenriMafra)
-* Web: [henrimafra.github.io](https://henrimafra.github.io/)
