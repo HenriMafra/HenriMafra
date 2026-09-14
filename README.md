@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Henri%20Mafra&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Systems%20Engineering%20%7C%20Edge%20Runtimes%20%7C%20Exploit%20Research&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb&height=180&section=header&text=Henri%20Mafra&fontSize=56&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Systems+Engineering+%26+Edge+Runtimes;Exploit+Research+%26+Binary+Analysis;Linux+Internals%2C+C+%26+Assembly;Columnar+Analytics+%26+Distributed+Data" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Systems+Engineering+%26+Edge+Runtimes;Exploit+Research+%26+Binary+Analysis;Linux+Internals%2C+C+%26+Assembly;Columnar+Analytics+%26+Distributed+Data" alt="typing" />
 
 <br>
 
@@ -18,7 +18,7 @@
     <td align="center" width="40%"><b>Focus:</b> Systems, Edge Runtimes & Exploit Research</td>
     <td align="center" width="35%"><b>Status:</b> Active Lab & Production Workloads</td>
     <td align="center" width="25%">
-      <img src="https://komarev.com/ghpvc/?username=HenriMafra&color=7AA2F7&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=HenriMafra&color=1F6FEB&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square" alt="Ghidra" /><br>
       <img src="https://img.shields.io/badge/GDB-4B8BF5?style=flat-square&logo=gdb&logoColor=white" alt="GDB" /><br>
-      <img src="https://img.shields.io/badge/AFL++-7B2FBE?style=flat-square" alt="AFL++" />
+      <img src="https://img.shields.io/badge/AFL++-000000?style=flat-square" alt="AFL++" />
     </td>
   </tr>
   <tr>
@@ -173,15 +173,15 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriMafra&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub Stats" />
+      <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriMafra&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="Top Languages" />
+      <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriMafra&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=HenriMafra&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=HenriMafra&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="Streak Stats" />
     </td>
   </tr>
   <tr>
@@ -206,7 +206,7 @@
     <td align="center">
       <p>Standalone browser arcade game with keyboard mapping and mobile touch controls.</p>
       <a href="https://henrimafra.github.io/game/">
-        <img src="https://img.shields.io/badge/LAUNCH_GAME-9ECE6A?style=for-the-badge&logo=gamejolt&logoColor=000000&labelColor=7dcfff" height="42" alt="Launch Game" />
+        <img src="https://img.shields.io/badge/LAUNCH_GAME-1f6feb?style=for-the-badge&logo=gamejolt&logoColor=ffffff&labelColor=0d1117" height="42" alt="Launch Game" />
       </a>
     </td>
   </tr>
@@ -214,6 +214,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb&height=100&section=footer" />
 
 </div>
