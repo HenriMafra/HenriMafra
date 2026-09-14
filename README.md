@@ -3,14 +3,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb&height=160&section=header&text=Henri%20Mafra&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Systems+Engineering+%26+Edge+Runtimes;Exploit+Research+%26+Binary+Analysis;Linux+Internals%2C+C+%26+Assembly;Distributed+Systems+%26+Columnar+Analytics" alt="typing" />
+
+<br>
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 <br><br>
 
 <table width="100%">
   <tr>
-    <td align="left"><samp><b>Henri Mafra</b></samp></td>
-    <td align="right">
+    <th align="left">
+      <samp>PROFILE // HENRI MAFRA</samp>
+    </th>
+    <th align="right">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriMafra.HenriMafra&left_color=black&right_color=blue" alt="Visitors" />
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <samp>
+        Software engineer focused on systems programming, edge infrastructure, and low-level security.<br>
+        Building distributed edge runtimes and studying memory safety, Linux internals, and browser JIT engines.
+      </samp>
     </td>
   </tr>
 </table>
@@ -19,7 +33,7 @@
 
 <table width="100%">
   <tr>
-    <th align="center">STACK</th>
+    <th align="center">CORE TECHNOLOGIES</th>
   </tr>
   <tr>
     <td align="center">
