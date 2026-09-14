@@ -1,60 +1,67 @@
 # Henri Mafra
 
-Computer science, low-level systems, and security research.
+Software engineering, data systems, and low-level security research.
 
-```text
-[    0.000000] Linux version 6.10.x-henri (x86_64) (gcc 14.1) #1 SMP PREEMPT
-[    0.000010] Initializing Henri Mafra runtime environment...
-[    0.000140] Command line: target=systems_engineering,low_level_security,data_infrastructure
-[    0.001020] CPU0: Core systems online: Concurrency, IPC, Memory Management
-[    0.001850] I/O: Data layers active: PostgreSQL, Supabase, Cloudflare Edge Runtimes
-[    0.002400] Net: WebSockets, REST, Model Context Protocol (MCP) daemon mounted
-[    0.003110] Status: Operational. Running active workloads and low-level exploit research.
-```
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cloudflare_D1_&_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
 
-### Current Production Stack (What I Use)
+---
 
-| Layer | Technologies | Practical Usage |
-| :--- | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, SQL, PowerShell | System scripting, pipeline automation, tooling |
-| **Data & Storage** | PostgreSQL, Supabase, Pandas, NumPy | Relational modeling, API data ingestion, wrangling |
-| **Edge & Cloud** | Cloudflare Workers, REST, Docker | Serverless compute, distributed edge workers, containers |
-| **Protocols & Systems** | WebSockets, Discord IPC, Manifest V3 Extensions | Process communication, browser instrumentation |
-| **CI/CD & DevOps** | GitHub Actions, Git, Linux | Automated testing, deployment pipelines, scheduled jobs |
+### What I Build
+
+* **Edge Architecture & Micro-Apps:** Distributed applications running on Cloudflare Workers and Pages with Cloudflare D1 SQL storage. Creator of the Forge Suite (collection of 10 standalone productivity and financial utilities).
+* **Data Engineering & Pipelines:** Medallion data architecture implementations (Bronze, Silver, Gold), automated ETL ingestion, relational modeling with PostgreSQL and Supabase, and public API data integration (OpenFDA).
+* **Systems & Process IPC:** Local daemons, WebSocket bridges, browser extensions (Manifest V3), and desktop IPC integrations.
 
 <br>
 
 <div align="center">
-  <img src="giphy.gif" width="600px" alt="Henri Mafra">
+  <img src="giphy.gif" width="560px" alt="Henri Mafra">
 </div>
 
 <br>
 
-### Systems & Exploit Engineering Roadmap (What I Am Learning)
+### Current Research: Systems & Exploit Engineering
 
-Technical progression based on systems programming, memory safety bypasses, and browser internals:
+Active study track based on low-level systems, memory safety, and browser architecture:
 
-| Phase | Specialization | Core Focus & Reference Study |
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Assembly_x86--64-4E5D6C?style=flat-square" alt="x86_64" />
+  <img src="https://img.shields.io/badge/Linux_OSTEP-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/GDB-4B8BF5?style=flat-square" alt="GDB" />
+  <img src="https://img.shields.io/badge/V8_JIT-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="V8" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+</p>
+
+* **Silicon Substrate & Linux Internals:** CPU architecture, memory layout (Stack and Heap), pointer arithmetic, address spaces, page tables, and syscall interfaces (OSTEP).
+* **Binary Exploitation & Memory Safety:** Disassembly and reverse engineering in Ghidra and GDB, stack buffer overflows, ROP chains against DEP/NX, and glibc malloc heap structure (tcache, fastbins, use-after-free).
+* **Compiler & Browser Architecture:** AST generation, JIT optimization pipelines, Chromium multi-process model, and Google V8 engine internals (Ignition and TurboFan).
+* **High-Throughput Analytics:** In-memory analytical processing with DuckDB, column-oriented Parquet storage, and dimensional modeling with dbt Core.
+
+---
+
+### Featured Repositories
+
+| Project | Focus | Stack |
 | :--- | :--- | :--- |
-| **Phase I** | **Silicon Substrate & OS Internals** | Computer architecture (Wentzlaff), pure C and bitwise operations, manual memory allocation (malloc/free internals), virtual memory and address spaces (OSTEP: paging, TLB, syscalls), x86_64 assembly, static disassembly with Ghidra and dynamic debugging with GDB/GEF. |
-| **Phase II** | **Binary Exploitation & Heap Internals** | Stack buffer overflows, position-independent shellcoding, Return-Oriented Programming (ROP chains to bypass DEP/NX), glibc malloc architecture (chunks, tcache poisoning, fastbins, Use-After-Free), timing side-channel attacks, and automated coverage-guided fuzzing with AFL++ and ASan. |
-| **Phase III** | **Browser Security & V8 JIT Architecture** | Compiler theory (AST, Intermediate Representations, bounds check elimination), modern C++ object layout (vtables, dynamic casting, RAII), Chromium multi-process isolation, V8 internals (Ignition bytecode interpreter, TurboFan JIT compiler, type confusion vulnerabilities, addrof/fakeobj memory primitives, and Mojo IPC sandbox escapes). |
-| **Phase 0** | **High-Throughput Data Infrastructure** | Code-first data transformations, dbt Core dimensional models and automated testing, DuckDB in-memory analytical queries on Apache Parquet, Medallion architecture (Bronze, Silver, Gold), and zero-GUI cron pipelines. |
+| [prime-discord-presence](https://github.com/HenriMafra/prime-discord-presence) | Browser playback sync to Discord via WebSocket IPC bridge. | JavaScript, WebSockets, Discord RPC, Manifest V3 |
+| [Cuidamed](https://github.com/HenriMafra/Cuidamed) | Clinical schedule daemon with OpenFDA verification and CI. | Python, Streamlit, PostgreSQL, Supabase, CI/CD |
+| [projeto-medallion-nyc](https://github.com/HenriMafra/projeto-medallion-nyc) | Pipeline structuring data into Bronze, Silver, and Gold layers. | Python, Pandas, Parquet, Data Pipelines |
+| [forge-hub](https://github.com/HenriMafra/forge-hub) | Hub showcasing 10 standalone serverless edge applications. | React, TypeScript, Cloudflare Pages, Cloudflare D1 |
 
-<br>
+---
 
-### Selected Repositories
-
-| Repository | Function | Architecture |
-| :--- | :--- | :--- |
-| [prime-discord-presence](https://github.com/HenriMafra/prime-discord-presence) | Real-time browser media state sync to Discord IPC. | JavaScript, WebSockets, Discord RPC, Manifest V3 |
-| [Cuidamed](https://github.com/HenriMafra/Cuidamed) | Clinical scheduling system with OpenFDA verification. | Python, Streamlit, PostgreSQL, Supabase, CI/CD |
-| [Brazilian-Soccer-Database](https://github.com/HenriMafra/Brazilian-Soccer-Database) | Statistical analysis and predictive modeling for sports data. | Python, Pandas, NumPy, scikit-learn |
-
-<br>
-
-### Network & Contact
+### Contact
 
 * GitHub: [@HenriMafra](https://github.com/HenriMafra)
 * Web: [henrimafra.github.io](https://henrimafra.github.io/)
-* Email: henri.afly@gmail.com
